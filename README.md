@@ -1,7 +1,7 @@
 # addimat-kellnerschloss-RE
 
 
-I Reverse-Engineered the Working Priciple of the ["Addimat Kellnerschlösser"](https://direct.karley.de/kellnerschloss/addimat_kellnerschloss_usb_2_schwarz_mit_05m_kabel).
+I Reverse-Engineered the Working Priciple of the ["Addimat Kellnerschlösser"](https://direct.karley.de/kellnerschloss/addimat_kellnerschloss_usb_2_schwarz_mit_05m_kabel) used in Restaurants.
 
 The Original Device costs around 130€. I thorught that they can't be that expensive to make. 5€ Later i made one myself.
 
