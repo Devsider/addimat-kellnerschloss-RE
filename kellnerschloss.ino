@@ -1,18 +1,11 @@
 #include <OneWire.h>
 
-
-// DS18S20 Temperature chip i/o
-
+//change pin here if needed
 OneWire ds(5);
-// on pin 10
 
 
 void setup(void) {
-
-  // initialize inputs/outputs
-
   // start serial port
-
   Serial.begin(9600);
 }
 
